@@ -12,7 +12,7 @@ class Class01{
 
 
 
-
+$this -> a = 3;
 
 
 
