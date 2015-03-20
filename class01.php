@@ -5,7 +5,7 @@ class Class01{
 	}
 	
 	function load(){
-		
+		//hi
 	}
 }
 ?>
