@@ -13,7 +13,7 @@ class Class01{
 
 
 $this -> a = 3;
-
+$this -> b = 5;
 
 
 
