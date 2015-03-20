@@ -1,6 +1,11 @@
 <?php
 class Class01{
-	function save(){
+	function __construct(){
+		
+	}
+	
+	function load(){
+		
 	}
 }
 ?>
