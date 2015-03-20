@@ -19,7 +19,7 @@ $this -> a = 3;
 
 
 
-function del(){
+function del($id){
 	echo "del now";
 }
 
