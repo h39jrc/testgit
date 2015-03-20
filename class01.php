@@ -19,7 +19,9 @@ $this -> a = 3;
 
 
 
-
+function del(){
+	echo "del now";
+}
 
 $mmm = 10; //oneplus
 
