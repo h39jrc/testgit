@@ -30,5 +30,5 @@ class Class01{
 
 
 
-
+$oneplus = 10;
 ?>
