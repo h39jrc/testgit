@@ -23,7 +23,7 @@ function del($id){
 	echo "del now";
 }
 
-
+$mmm = 10; //oneplus
 
 
 
