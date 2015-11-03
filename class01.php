@@ -1,4 +1,5 @@
 <?php
+//test
 class Class01{
 	function __construct(){
 		$cfg = false;
